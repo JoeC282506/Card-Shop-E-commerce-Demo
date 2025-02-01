@@ -28,7 +28,7 @@ This e-commerce website sells Trading Card Game products and accessories, develo
 https://joe28pract.com/
 
 ## Theme Files and Resources
-[Google Drive Link]([https://drive.google.com/drive/folders/1NA_i9YnEX8PJC_KJZWSJjy7oBkguIsXy?usp=sharing](https://drive.google.com/drive/folders/1AlJfhx3VDomQer8C7KKP4waVdqO9CtTC?usp=sharing))  
+[Google Drive Link](https://drive.google.com/drive/folders/1x2F6UAF4SGlBpJXyxmpz45k74Xs-yVte?usp=sharing)    
 I have placed all website-related materials in the Google Drive link, including custom theme files, website backup, and various notes made during and after my learning process.
 
 ## Contact
