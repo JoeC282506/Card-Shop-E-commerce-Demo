@@ -2,6 +2,8 @@
 
 This e-commerce website sells Trading Card Game products and accessories, developed with WordPress and a custom theme for a fast and convenient shopping experience.
 
+![圖片](https://github.com/JoeC282506/Card-Shop-E-commerce-Demo/blob/main/Cimg.png)
+
 ## Features
 - **Member Registration**: Enables users to track their shopping status.
 - **Product Listings**: Displays products with detailed descriptions and images.
