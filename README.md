@@ -13,12 +13,12 @@ This e-commerce website sells Trading Card Game products and accessories, develo
 - **Responsive Design**: Ensures mobile-friendliness across various devices.
 
 ## Technology Stack
-- **WordPress**: Content management system
-- **PHP**: Server-side scripting language
-- **JavaScript**: Client-side scripting for interactivity
-- **CSS**: Website styling
-- **HTML**: Web page structure
-- **WooCommerce**: E-commerce plugin for product management
+- **WordPress**
+- **PHP**
+- **JavaScript**
+- **CSS**
+- **HTML**
+- **WooCommerce**
 
 ## Skills Learned
 - Created custom themes using the Underscores Theme Starter
